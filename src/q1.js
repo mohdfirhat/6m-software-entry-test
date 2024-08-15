@@ -29,4 +29,4 @@ function swap(x, y) {
 // Task 2: Add code here
 result = swap("Apple", 10);
 console.assert(result === -1);
-swap(-9.1, 17);
+swap(9, 17);
